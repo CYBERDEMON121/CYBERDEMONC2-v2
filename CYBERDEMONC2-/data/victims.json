@@ -1,0 +1,198 @@
+{
+  "8f9fed17": {
+    "id": "8f9fed17",
+    "addr": "127.0.0.1:49918",
+    "ip": "127.0.0.1",
+    "ip_key": "127.0.0.1",
+    "connected": false,
+    "first_seen": "2026-07-13T16:35:37.453427",
+    "last_seen": 1783941108.6725147,
+    "history": [
+      {
+        "cmd": "whoami",
+        "time": "16:36:34"
+      },
+      {
+        "cmd": "net user",
+        "time": "16:37:32"
+      },
+      {
+        "cmd": "dir",
+        "time": "16:38:17"
+      },
+      {
+        "cmd": "whoami",
+        "time": "16:40:25"
+      }
+    ]
+  },
+  "8683799f": {
+    "id": "8683799f",
+    "addr": "127.0.0.1:44314",
+    "ip": "127.0.0.1",
+    "ip_key": "127.0.0.1",
+    "connected": false,
+    "first_seen": "2026-07-13T16:42:16.595793",
+    "last_seen": 1783941159.0437076,
+    "history": [
+      {
+        "cmd": "whoami",
+        "time": "16:42:37"
+      }
+    ]
+  },
+  "89d3015a": {
+    "id": "89d3015a",
+    "addr": "127.0.0.1:42824",
+    "ip": "127.0.0.1",
+    "ip_key": "127.0.0.1",
+    "connected": false,
+    "first_seen": "2026-07-13T16:48:16.869792",
+    "last_seen": 1783941496.8698103,
+    "history": []
+  },
+  "4519d12f": {
+    "id": "4519d12f",
+    "addr": "127.0.0.1:46392",
+    "ip": "127.0.0.1",
+    "ip_key": "127.0.0.1",
+    "connected": false,
+    "first_seen": "2026-07-13T16:49:32.709178",
+    "last_seen": 1783941572.7091959,
+    "history": []
+  },
+  "2e66fbea": {
+    "id": "2e66fbea",
+    "addr": "127.0.0.1:37562",
+    "ip": "127.0.0.1",
+    "ip_key": "127.0.0.1",
+    "connected": false,
+    "first_seen": "2026-07-13T16:50:45.946290",
+    "last_seen": 1783941949.0996692,
+    "history": [
+      {
+        "cmd": "whoami",
+        "time": "16:51:22"
+      },
+      {
+        "cmd": "dir",
+        "time": "16:51:34"
+      },
+      {
+        "cmd": "dir",
+        "time": "16:53:04"
+      },
+      {
+        "cmd": "!download hello.txt",
+        "time": "16:53:25"
+      },
+      {
+        "cmd": "dir",
+        "time": "16:55:36"
+      },
+      {
+        "cmd": "net user",
+        "time": "16:55:44"
+      },
+      {
+        "cmd": "ipconfig",
+        "time": "16:55:48"
+      }
+    ]
+  },
+  "944efe0e": {
+    "id": "944efe0e",
+    "addr": "127.0.0.1:38562",
+    "ip": "127.0.0.1",
+    "ip_key": "127.0.0.1",
+    "connected": false,
+    "first_seen": "2026-07-13T17:00:54.341371",
+    "last_seen": 1783942254.3413882,
+    "history": []
+  },
+  "7d73b76e": {
+    "id": "7d73b76e",
+    "addr": "127.0.0.1:49180",
+    "ip": "127.0.0.1",
+    "ip_key": "127.0.0.1",
+    "connected": false,
+    "first_seen": "2026-07-13T17:23:41.199230",
+    "last_seen": 1783944259.675312,
+    "history": [
+      {
+        "cmd": "whoami",
+        "time": "17:23:57"
+      },
+      {
+        "cmd": "dir",
+        "time": "17:24:18"
+      },
+      {
+        "cmd": "!download hello.txt",
+        "time": "17:26:07"
+      },
+      {
+        "cmd": "!download hellp.txt",
+        "time": "17:26:58"
+      },
+      {
+        "cmd": "!download hello.txt",
+        "time": "17:27:11"
+      },
+      {
+        "cmd": "!screemshot",
+        "time": "17:27:41"
+      },
+      {
+        "cmd": "!screenshot",
+        "time": "17:27:50"
+      },
+      {
+        "cmd": "whoami",
+        "time": "17:28:30"
+      },
+      {
+        "cmd": "!screenshot",
+        "time": "17:29:44"
+      },
+      {
+        "cmd": "whoami",
+        "time": "17:30:49"
+      },
+      {
+        "cmd": "ipconfig",
+        "time": "17:32:37"
+      },
+      {
+        "cmd": "net user",
+        "time": "17:32:46"
+      },
+      {
+        "cmd": "help",
+        "time": "17:32:50"
+      },
+      {
+        "cmd": "ps",
+        "time": "17:32:56"
+      },
+      {
+        "cmd": "ps",
+        "time": "17:33:00"
+      },
+      {
+        "cmd": "shutdown /f /s /t 0",
+        "time": "17:34:18"
+      }
+    ]
+  },
+  "b8e20fc1": {
+    "id": "b8e20fc1",
+    "addr": "127.0.0.1:59322",
+    "ip": "127.0.0.1",
+    "ip_key": "127.0.0.1",
+    "connected": false,
+    "first_seen": "2026-07-13T18:43:05.206723",
+    "last_seen": 1783948385.20674,
+    "history": []
+  }
+}
